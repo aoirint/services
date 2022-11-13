@@ -19,6 +19,7 @@
 |Service|App|Repository|URL|
 |:--|:--|:--|:--|
 |Webサーバ・リバースプロキシ|nginx|<https://github.com/aoirint/leir-nginx>| |
+|Twitterの投票グラフ化|自作Webサービス|<https://github.com/aoirint/nalypoll.aoirint.com>|<https://nalypoll.aoirint.com>|
 
 ### 準備中
 
@@ -49,6 +50,16 @@
 |音声合成サーバ|VOICEVOX ENGINE|<https://github.com/aoirint/vve.aoirint.com>|<https://vve.aoirint.com>|
 |Minecraft Java版 ゲームサーバ|Minecraft (Forge)|<https://github.com/aoirint/minecraft-server-pixelmon-cj>| |
 |Minecraft Java版 ゲームサーバ|Minecraft (Forge)|<https://github.com/aoirint/minecraft-server-biome-cj>| |
+|Minecraft Bedrock版 ゲームサーバ|Minecraft Bedrock|<https://github.com/aoirint/minecraft-bedrock-roka>| |
+|Minecraft Bedrock版 ゲームサーバ|Minecraft Bedrock|<https://github.com/aoirint/minecraft-bedrock-aur>| |
+|HTTPプロキシ|Squid|<https://github.com/aoirint/mate-squid>| |
+|Wiki|Wiki.js|<https://github.com/aoirint/wiki.aoirint.com> <https://github.com/aoirint/wiki.aoirint.com-contents>|<https://wiki.aoirint.com>|
+|プライベートWiki|Wiki.js|<https://github.com/aoirint/pwiki.aoirint.com> <https://github.com/aoirint/pwiki.aoirint.com-contents>|<https://pwiki.aoirint.com>|
+|プライベートノートサーバ|Joplin Server|<https://github.com/aoirint/jop.aoirint.com>|<https://jop.aoirint.com>|
+|環境センサモニター用Webフロントエンド|React|<https://github.com/aoirint/harmonica-web>|<https://hm.aoirint.com>|
+|環境センサモニター用DB|Hasura|<https://github.com/aoirint/harmonica-hasura>|<https://hmapi.aoirint.com>|
+|環境センサモニター用記録クライアント||<https://github.com/aoirint/harmonica-sensor-reader>||
+|音楽DB|Musicbrainzミラー|<https://github.com/aoirint/musicbrainz-docker>||
 
 ### 準備中
 
